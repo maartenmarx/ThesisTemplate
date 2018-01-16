@@ -45,7 +45,7 @@ You find a thesis template containing some nice tricks (e.g., about creating Lat
  
 ----
 
-### Thesis assessment form
+### Thesis Design assessment form
 
 <!--You can receive 100 points for your thesis design. Your grade is the number of points divided by 10.-->
  Below you see the weight of each section and the questions used by the supervisor to assess the sections. 
