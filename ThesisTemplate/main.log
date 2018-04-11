@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 APR 2018 13:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 APR 2018 14:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1056,13 +1056,19 @@ cmtt/m/n/10 documentclass[sigconf]acmart\OT1/cmr/m/n/10 ).
  []
 
 
-Overfull \hbox (135.66759pt too wide) in paragraph at lines 59--60
-[]\OT1/cmr/m/n/10 Use the tem-plate at <https://github.com/maartenmarx/ThesisTe
-mplate/blob/master/TitlePages/Thesis-
+Overfull \hbox (7.38693pt too wide) in paragraph at lines 59--60
+[]\OT1/cmr/m/n/10 Use the tem-plate at []$\OT1/cmtt/m/n/10 https : / / github .
+ com / maartenmarx / ThesisTemplate /
+ []
+
+
+Overfull \hbox (6.9972pt too wide) in paragraph at lines 59--60
+\OT1/cmtt/m/n/10 blob / master / ThesisTemplate / TitlePages / Thesis-[]Title-[
+]Page-[]DS . tex$[]
  []
 
 [2] (./introduction.tex) (./related_work.tex) (./methodology.tex [3]
-<WildersPlot.png, id=123, 1084.05pt x 433.62pt>
+<WildersPlot.png, id=126, 1084.05pt x 433.62pt>
 File: WildersPlot.png Graphic file (type png)
  <use WildersPlot.png>
 Package pdftex.def Info: WildersPlot.png used on input line 23.
@@ -1076,7 +1082,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=136, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=139, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf>
@@ -1098,7 +1104,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=139, page=1, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=142, page=1, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 1>
@@ -1127,7 +1133,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page1 used on input line 8
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=146, page=2, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=150, page=2, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 2>
@@ -1144,7 +1150,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page2 used on input line 8
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=147, page=3, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=151, page=3, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 3>
@@ -1161,7 +1167,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page3 used on input line 8
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=148, page=4, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=152, page=4, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 4>
@@ -1178,7 +1184,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page4 used on input line 8
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=149, page=5, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=153, page=5, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 5>
@@ -1195,7 +1201,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page5 used on input line 8
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=150, page=6, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=154, page=6, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 6>
@@ -1212,7 +1218,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page6 used on input line 8
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=151, page=7, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=155, page=7, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 7>
@@ -1267,7 +1273,7 @@ cture_slides.pdf> <./sargent-lecture_slides.pdf> <./sargent-lecture_slides.pdf>
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=216, page=8, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=219, page=8, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 8>
@@ -1284,7 +1290,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page8 used on input line 8
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=217, page=9, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=220, page=9, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 9>
@@ -1301,7 +1307,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page9 used on input line 8
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=218, page=10, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=221, page=10, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 10>
@@ -1318,7 +1324,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page10 used on input line
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=219, page=11, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=222, page=11, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 11>
@@ -1335,7 +1341,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page11 used on input line
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=220, page=12, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=223, page=12, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 12>
@@ -1352,7 +1358,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page12 used on input line
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=221, page=13, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=224, page=13, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 13>
@@ -1407,7 +1413,7 @@ cture_slides.pdf> <./sargent-lecture_slides.pdf> <./sargent-lecture_slides.pdf>
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=236, page=14, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=239, page=14, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 14>
@@ -1424,7 +1430,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page14 used on input line
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=237, page=15, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=240, page=15, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 15>
@@ -1441,7 +1447,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page15 used on input line
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=238, page=16, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=241, page=16, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 16>
@@ -1458,7 +1464,7 @@ Package pdftex.def Info: sargent-lecture_slides.pdf, page16 used on input line
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./sargent-lecture_slides.pdf
 ): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<sargent-lecture_slides.pdf, id=239, page=17, 364.19562pt x 273.14648pt>
+<sargent-lecture_slides.pdf, id=242, page=17, 364.19562pt x 273.14648pt>
 File: sargent-lecture_slides.pdf Graphic file (type pdf)
 
 <use sargent-lecture_slides.pdf, page 17>
@@ -1553,10 +1559,10 @@ ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on main.pdf (10 pages, 406140 bytes).
+Output written on main.pdf (10 pages, 406518 bytes).
 PDF statistics:
- 293 PDF objects out of 1000 (max. 8388607)
- 230 compressed objects within 3 object streams
+ 296 PDF objects out of 1000 (max. 8388607)
+ 233 compressed objects within 3 object streams
  32 named destinations out of 1000 (max. 500000)
  248 words of extra memory for PDF output out of 10000 (max. 10000000)
 
