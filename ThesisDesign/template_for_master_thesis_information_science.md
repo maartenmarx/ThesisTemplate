@@ -37,7 +37,7 @@ The goal of a thesis design is to write a research proposal on the subject of yo
 
 **Please note that the maximum length for the thesis design  is 4 pages using the provided latex template.**
 
-### [Link to latex template](https://github.com/maartenmarx/ThesisTemplate/blob/master/ThesisDesign.tex)
+### [Link to latex template](https://github.com/maartenmarx/ThesisTemplate/blob/master/ThesisTemplate/ThesisDesign.tex)
 
 ##### Thesis template (in Dutch)
 You find a thesis template containing some nice tricks (e.g., about creating Latex tables in pandas and adding your presentation slides as an appendix in <https://github.com/maartenmarx/ThesisTemplate>)
