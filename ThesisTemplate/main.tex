@@ -1,4 +1,8 @@
-\documentclass[a4paper,pdf]{article} % gebruik acm style voor je scriptie: [format=acmsmall, screen=true, review=false]{acmart} 
+%\documentclass[a4paper,pdf]{article} % gebruik acm style voor je scriptie: [format=acmsmall, screen=true, review=false]{acmart} 
+
+
+%\documentclass[sigconf]{acmart} 
+\documentclass[sigconf,format=acmsmall, screen=true, review=false]{acmart} 
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -8,11 +12,10 @@
 
 
 \usepackage[utf8]{inputenc}
-\usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage[colorinlistoftodos]{todonotes} % handig voor commentaar: gebruik \todo{}, zie ftp://ftp.fu-berlin.de/tex/CTAN/macros/latex/contrib/todonotes/todonotes.pdf
 \usepackage{listings}
-\usepackage{pdfpages}
+ 
 \usepackage{tcolorbox}
 \usepackage{float}
 \usepackage{caption}
@@ -28,7 +31,7 @@
 \usepackage{lineno}
 \linenumbers
 
-
+\newcommand{\shorttitle}{} % Put your short title here
 \begin{document}
 
 
@@ -39,9 +42,9 @@
 
 \pagebreak
 
-\todototoc
-\listoftodos
-\tableofcontents
+%\todototoc
+%\listoftodos
+%\tableofcontents
 
 \pagebreak
 
