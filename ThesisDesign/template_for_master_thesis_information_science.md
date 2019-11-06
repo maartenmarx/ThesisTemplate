@@ -24,7 +24,8 @@ The goal of a thesis design is to write a research proposal on the subject of yo
 		* algorithms
 		* software
 	6. Describe the methods you will use
-	7. Describe how you evaluate your results
+	7. Describe how you evaluate your results.
+    	* Each project must finish with a quantitative evaluation. This can be done with A/B testing or using a gold standard evaluation set containing human-assigned correct labels or scores.  In case A/B testing is chosen, an elaborate risk assessment and a plan B must be present. Evaluation must be in such a way that it is possible to state that a proposed solution works **significantly** better than some baseline.
 5. Risk assessment
 	6. Describe the risks, an describe your backup plan for each of them.
 3. Project plan 
