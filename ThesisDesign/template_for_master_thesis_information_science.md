@@ -2,7 +2,7 @@
 
 ### Abstract/Purpose
 You use this   template for your thesis design document. You keep the main sections and stick to the overall setup.
-The template is [available in Latex](https://github.com/maartenmarx/ThesisTemplate/blob/master/ThesisDesign.tex) too.  Below the template you find the form which supervisors use to assess your thesis design.
+The template is [available in Latex](https://github.com/maartenmarx/ThesisTemplate/blob/master/ThesisTemplate/ThesisDesign.tex) too.  Below the template you find the form which supervisors use to assess your thesis design.
 
 <!--Below is also a template for the  presentation of your thesis design. -->
 
