@@ -2,7 +2,7 @@
 
 ### Abstract/Purpose
 You use this   template for your thesis design document. You keep the main sections and stick to the overall setup.
-The template is [available in Latex](https://github.com/maartenmarx/ThesisTemplate/blob/master/ThesisDesign.tex) too.  Below the template you find the form which supervisors use to assess your thesis design.
+The template is [available in Latex](https://github.com/maartenmarx/ThesisTemplate/blob/master/ThesisTemplate/ThesisDesign.tex) too.  Below the template you find the form which supervisors use to assess your thesis design.
 
 <!--Below is also a template for the  presentation of your thesis design. -->
 
@@ -36,7 +36,8 @@ The goal of a thesis design is to write a research proposal on the subject of yo
 	5. You describe concrete achievements, not actions. (e.g., instead of _data preparation_ you write _all data in XXX format, well-described, ready for analysis using YYY_)
 
 
-**Please note that the maximum length for the thesis design  is 4 pages using the provided latex template.**
+**Please note that the advised maximum length for the thesis design  is 4 pages using the provided latex template.**
+The rationale for this is that you should see this thesis design as an elevator pitch in which you want  to **quickly** convince a great supervisor that you are a great student. Great supervisors will get many requests and have little time. They will probably select students which can be brief, succinct, to the point and with crystal clear plans. That is why short is recommended.
 
 ### [Link to latex template](https://github.com/maartenmarx/ThesisTemplate/blob/master/ThesisTemplate/ThesisDesign.tex)
 
