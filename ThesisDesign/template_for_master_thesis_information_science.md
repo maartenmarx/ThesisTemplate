@@ -6,6 +6,11 @@ The template is [available in Latex](https://github.com/maartenmarx/ThesisTempla
 
 <!--Below is also a template for the  presentation of your thesis design. -->
 
+### ACM template on overleaf
+
+* You can find the ACM template also on overleaf. You can then use the points below for the content.
+* <https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfw>
+
 
 ### Thesis design template
 
