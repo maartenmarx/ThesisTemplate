@@ -9,7 +9,7 @@ The template is [available in Latex](https://github.com/maartenmarx/ThesisTempla
 ### ACM template on overleaf
 
 * You can find the ACM template also on overleaf. You can then use the points below for the content.
-* <https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfw>
+* <https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty>
 
 
 ### Thesis design template
